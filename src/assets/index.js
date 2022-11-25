@@ -8,6 +8,7 @@ import react from "./react.png";
 import scene from "./scene.png";
 import mockup from "./mockup.png";
 
+// eslint-disable-next-line 
 export default {
   homeHero,
   homeCards,

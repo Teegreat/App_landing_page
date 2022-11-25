@@ -1,5 +1,5 @@
 import { Download, Features, SectionWrapper } from "./components";
-import assets from './assets'
+import assets from "./assets";
 import styles from "./styles/Global";
 
 const App = () => {
@@ -45,6 +45,5 @@ const App = () => {
     </>
   );
 };
-
 
 export default App;
